@@ -80,8 +80,9 @@ main {
   margin-left: 5%;
 }
 
-.name-author h4 {
+.name-author .name {
   color: var(--White);
+  font-weight: bold;
 }
 
 .author p {
